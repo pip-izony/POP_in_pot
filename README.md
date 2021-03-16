@@ -8,6 +8,6 @@
 # The physical enviroment of Unity has AddForce, so you can easily make any game!
 
 # This project uploaded at Google Play Store ▼
-https://play.google.com/store/apps/details?id=com.Izony.POPinpot
-Email : eeodqql09@gmail.com
-Instagram : pip_izony
+# https://play.google.com/store/apps/details?id=com.Izony.POPinpot
+# Email : eeodqql09@gmail.com
+# Instagram : pip_izony

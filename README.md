@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/50067697/178913851-21b7ea58-d003-4300-9c81-868041c7b26e.png)
+![image](https://user-images.githubusercontent.com/50067697/178913851-21b7ea58-d003-4300-9c81-868041c7b26e.png){: width="100%" height="100%"}
 # POP_in_pot
 
 Welcome to my game project using Unity.   

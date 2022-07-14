@@ -9,6 +9,6 @@ If you need to make your own physical enviroment, you can use fomula such as X =
    
 The physical enviroment of Unity has AddForce, so you can easily make any game!   
 #
-<https://play.google.com/store/apps/details?id=com.Izony.POPinpot>   
+PlayStore : <https://play.google.com/store/apps/details?id=com.Izony.POPinpot>   
 Email : <eeodqql09@gmail.com>   
 Instagram : pip_izony   

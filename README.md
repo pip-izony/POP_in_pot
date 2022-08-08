@@ -1,5 +1,4 @@
 # POP_in_pot
-<img src="https://user-images.githubusercontent.com/50067697/178913851-21b7ea58-d003-4300-9c81-868041c7b26e.png" width="100%" height="100%"/>
 <img src="https://user-images.githubusercontent.com/50067697/183462879-0cab0723-c5e2-48b8-8f43-6c0dd950808b.gif" width="100%" height="100%"/>
 
 Welcome to my game project using Unity.   
